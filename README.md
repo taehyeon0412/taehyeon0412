@@ -9,6 +9,6 @@
   </a>
   &nbsp;&nbsp; <!-- 간격 추가 -->
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=taehyeon0412&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/taehyeon0412" width="540" height="300" />
+    <img src="https://render.gitanimals.org/farms/taehyeon0412" width="530" height="300" />
   </a>
 </p>
