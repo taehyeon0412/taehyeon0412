@@ -4,9 +4,6 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![AWS](https://img.shields.io/badge/AWS⠀S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyeon0412" />
-  </a>
   &nbsp;&nbsp; <!-- 간격 추가 -->
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=taehyeon0412&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/taehyeon0412" width="530" height="300" />
